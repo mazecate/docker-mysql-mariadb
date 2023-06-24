@@ -6,7 +6,7 @@
 docker-compose -f docker-mysql.yml up -d
 ```
 
-### For run mysql version:
+### For run mariadb version:
 ```
 docker-compose -f dc-mariadb.yml up -d
 ```
